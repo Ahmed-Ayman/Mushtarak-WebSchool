@@ -6,4 +6,4 @@ and we as a student will be sharing what we are learning right here regarding th
 
 hopefully it could help anybody out there.
 
-![http://www.mushtarak.me/sites/all/themes/mushtarak/logo.png](mushtarak)
+![mushtarak](http://www.mushtarak.me/sites/all/themes/mushtarak/logo.png)
